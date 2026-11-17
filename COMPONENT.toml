@@ -3,7 +3,7 @@ name = "SigmaOS-irq-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "irq-management component"
+description = "irq management component"
 upstream = []
 
 [contract]
